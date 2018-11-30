@@ -3,6 +3,14 @@
   font-family: VideoJS;
 }
 
+.vjs-resolution-button .vjs-resolution-button-staticlabel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .vjs-resolution-button .vjs-resolution-button-staticlabel:before {
   content: '\f110';
   font-size: 1.8em;
