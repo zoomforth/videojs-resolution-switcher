@@ -1,7 +1,7 @@
 {
   "name": "videojs-resolution-switcher",
-  "version": "0.4.2",
-  "main": "./lib/videojs-resolution-switcher.js",
+  "version": "0.4.2-zfcompat",
+  "main": "./lib/videojs-resolution-switcher.es.js",
   "author": {
     "name": "Kasper Moskwiak",
     "email": "kasper.moskwiak@gmail.com",
@@ -12,7 +12,7 @@
       "name": "Pierre Kraft"
     }
   ],
-  "description": "Resolution switcher for video.js 5",
+  "description": "Resolution switcher for video.js 7",
   "repository": {
     "type": "git",
     "url": "git@github.com:kmoskwiak/videojs-resolution-switcher.git"
@@ -47,6 +47,6 @@
     "videojs-youtube": "^2.0.8"
   },
   "peerDependencies": {
-    "video.js": "^5.8"
+    "video.js": "^7.0.0"
   }
 }

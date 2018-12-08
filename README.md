@@ -2,6 +2,14 @@
 
 Resolution switcher for [video.js v5](https://github.com/videojs/video.js)
 
+## Warning!
+
+This repository is unmaintained. The package was modified for specific use in our company build chain. It will probably not work for you.
+
+You should visit the original: https://kmoskwiak.github.io/videojs-resolution-switcher
+
+---
+
 ## Example
 
 [Working examples](examples) of the plugin you can check out if you're having trouble. Or check out this [demo](https://kmoskwiak.github.io/videojs-resolution-switcher/).
